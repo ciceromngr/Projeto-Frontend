@@ -1,0 +1,39 @@
+{
+    "usuario": [
+        {
+            "id": 1,
+            "nome": "cicero Romao",
+            "email": "cicero@cicero.com",
+            "senha": "123123",
+            "empresa": [
+                {
+                    "id": 1,
+                    "nomeEmpresa": "LTDA FANTANSIA",
+                    "categoria": "MEI",
+                    "fluxo": [
+                        {
+                            "id": 1,
+                            "etapa": 1,
+                            "percentual": 0
+                        },
+                        {
+                            "id": 2,
+                            "etapa": 2,
+                            "percentual": 25
+                        },
+                        {
+                            "id": 3,
+                            "etapa": 3,
+                            "percentual": 75
+                        },
+                        {
+                            "id": 4,
+                            "etapa": 4,
+                            "percentual": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
